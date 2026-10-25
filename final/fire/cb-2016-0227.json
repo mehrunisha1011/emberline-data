@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2016-0227","lat":55.1875,"lon":-124.9176,"start":"2016-10-12","peak":"2016-10-12","end":"2016-10-12","duration_days":1,"total_frp_mw":711.0,"n_cell_days":8,"n_satellites":2,"satellites":["Aqua","SNPP"],"region":"canada_boreal","daily":[{"date":"2016-10-12","frp_mw":711.0,"active_cells":8}]}

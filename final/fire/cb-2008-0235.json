@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2008-0235","lat":53.6732,"lon":-124.0458,"start":"2008-10-23","peak":"2008-10-23","end":"2008-10-23","duration_days":1,"total_frp_mw":1526.8,"n_cell_days":10,"n_satellites":2,"satellites":["Terra","Aqua"],"region":"canada_boreal","daily":[{"date":"2008-10-23","frp_mw":1526.8,"active_cells":10}]}

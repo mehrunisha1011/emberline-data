@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2026-0250","lat":63.642,"lon":-118.9918,"start":"2026-07-26","peak":"2026-07-26","end":"2026-07-26","duration_days":1,"total_frp_mw":4237.1104,"n_cell_days":16,"n_satellites":3,"satellites":["Aqua","SNPP","NOAA20"],"region":"canada_boreal","daily":[{"date":"2026-07-26","frp_mw":4237.1104,"active_cells":16}]}

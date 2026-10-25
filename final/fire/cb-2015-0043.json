@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2015-0043","lat":60.8546,"lon":-125.4076,"start":"2015-05-30","peak":"2015-05-30","end":"2015-05-30","duration_days":1,"total_frp_mw":3342.75,"n_cell_days":20,"n_satellites":3,"satellites":["Terra","Aqua","SNPP"],"region":"canada_boreal","daily":[{"date":"2015-05-30","frp_mw":3342.75,"active_cells":20}]}

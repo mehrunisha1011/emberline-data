@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2022-0283","lat":54.7888,"lon":-124.9005,"start":"2022-10-31","peak":"2022-10-31","end":"2022-10-31","duration_days":1,"total_frp_mw":2274.8201,"n_cell_days":10,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"canada_boreal","daily":[{"date":"2022-10-31","frp_mw":2274.8201,"active_cells":10}]}

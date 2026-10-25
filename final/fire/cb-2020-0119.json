@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2020-0119","lat":50.8786,"lon":-103.1389,"start":"2020-07-03","peak":"2020-07-03","end":"2020-07-03","duration_days":1,"total_frp_mw":418.12,"n_cell_days":5,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"canada_boreal","daily":[{"date":"2020-07-03","frp_mw":418.12,"active_cells":5}]}

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2001-0109","lat":59.2683,"lon":-123.2119,"start":"2001-09-20","peak":"2001-09-20","end":"2001-09-20","duration_days":1,"total_frp_mw":148.1,"n_cell_days":3,"n_satellites":1,"satellites":["Terra"],"region":"canada_boreal","daily":[{"date":"2001-09-20","frp_mw":148.1,"active_cells":3}]}

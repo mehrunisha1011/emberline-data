@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2018-0261","lat":59.5044,"lon":-127.9704,"start":"2018-08-22","peak":"2018-08-22","end":"2018-08-22","duration_days":1,"total_frp_mw":2228.5801,"n_cell_days":15,"n_satellites":2,"satellites":["SNPP","NOAA20"],"region":"canada_boreal","daily":[{"date":"2018-08-22","frp_mw":2228.5801,"active_cells":15}]}

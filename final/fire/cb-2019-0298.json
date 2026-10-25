@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2019-0298","lat":57.3496,"lon":-122.1618,"start":"2019-12-05","peak":"2019-12-05","end":"2019-12-05","duration_days":1,"total_frp_mw":1053.16,"n_cell_days":6,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"canada_boreal","daily":[{"date":"2019-12-05","frp_mw":1053.16,"active_cells":6}]}

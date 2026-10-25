@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2001-0024","lat":50.9112,"lon":-103.4161,"start":"2001-04-26","peak":"2001-04-26","end":"2001-04-26","duration_days":1,"total_frp_mw":126.3,"n_cell_days":3,"n_satellites":1,"satellites":["Terra"],"region":"canada_boreal","daily":[{"date":"2001-04-26","frp_mw":126.3,"active_cells":3}]}

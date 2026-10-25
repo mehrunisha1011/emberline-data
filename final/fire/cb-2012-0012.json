@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2012-0012","lat":53.356,"lon":-106.7758,"start":"2012-05-09","peak":"2012-05-09","end":"2012-05-09","duration_days":1,"total_frp_mw":1134.62,"n_cell_days":9,"n_satellites":3,"satellites":["Terra","Aqua","SNPP"],"region":"canada_boreal","daily":[{"date":"2012-05-09","frp_mw":1134.62,"active_cells":9}]}

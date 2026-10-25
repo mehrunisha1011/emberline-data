@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"cb-2021-0268","lat":56.638,"lon":-104.3496,"start":"2021-08-06","peak":"2021-08-06","end":"2021-08-06","duration_days":1,"total_frp_mw":3575.79,"n_cell_days":17,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"canada_boreal","daily":[{"date":"2021-08-06","frp_mw":3575.79,"active_cells":17}]}
