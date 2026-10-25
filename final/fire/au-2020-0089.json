@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2020-0089","lat":-42.9237,"lon":146.7825,"start":"2020-03-16","peak":"2020-03-16","end":"2020-03-16","duration_days":1,"total_frp_mw":3140.98,"n_cell_days":7,"n_satellites":3,"satellites":["Terra","Aqua","SNPP"],"region":"australia","daily":[{"date":"2020-03-16","frp_mw":3140.98,"active_cells":7}]}

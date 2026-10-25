@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2021-0039","lat":-14.0055,"lon":131.1391,"start":"2021-05-19","peak":"2021-05-19","end":"2021-05-19","duration_days":1,"total_frp_mw":6470.9697,"n_cell_days":43,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"australia","daily":[{"date":"2021-05-19","frp_mw":6470.9697,"active_cells":43}]}

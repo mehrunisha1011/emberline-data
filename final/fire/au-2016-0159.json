@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2016-0159","lat":-22.9282,"lon":146.6242,"start":"2016-10-31","peak":"2016-10-31","end":"2016-10-31","duration_days":1,"total_frp_mw":5288.98,"n_cell_days":15,"n_satellites":3,"satellites":["Terra","Aqua","SNPP"],"region":"australia","daily":[{"date":"2016-10-31","frp_mw":5288.98,"active_cells":15}]}

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2004-0169","lat":-20.2739,"lon":132.6053,"start":"2004-10-24","peak":"2004-10-24","end":"2004-10-24","duration_days":1,"total_frp_mw":15462.2998,"n_cell_days":53,"n_satellites":1,"satellites":["Terra"],"region":"australia","daily":[{"date":"2004-10-24","frp_mw":15462.2998,"active_cells":53}]}

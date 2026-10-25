@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2008-0232","lat":-28.6333,"lon":127.1954,"start":"2008-10-29","peak":"2008-10-29","end":"2008-10-29","duration_days":1,"total_frp_mw":8001.1001,"n_cell_days":10,"n_satellites":2,"satellites":["Terra","Aqua"],"region":"australia","daily":[{"date":"2008-10-29","frp_mw":8001.1001,"active_cells":10}]}

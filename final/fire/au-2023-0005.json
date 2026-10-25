@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2023-0005","lat":-33.4835,"lon":120.2355,"start":"2023-02-21","peak":"2023-02-21","end":"2023-02-21","duration_days":1,"total_frp_mw":17270.0195,"n_cell_days":28,"n_satellites":3,"satellites":["Aqua","SNPP","NOAA20"],"region":"australia","daily":[{"date":"2023-02-21","frp_mw":17270.0195,"active_cells":28}]}

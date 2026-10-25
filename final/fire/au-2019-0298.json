@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2019-0298","lat":-36.0958,"lon":149.8193,"start":"2019-12-30","peak":"2019-12-30","end":"2019-12-30","duration_days":1,"total_frp_mw":18544.5801,"n_cell_days":60,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"australia","daily":[{"date":"2019-12-30","frp_mw":18544.5801,"active_cells":60}]}

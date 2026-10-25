@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2026-0281","lat":-17.3897,"lon":133.991,"start":"2026-10-10","peak":"2026-10-10","end":"2026-10-10","duration_days":1,"total_frp_mw":3225.8301,"n_cell_days":5,"n_satellites":1,"satellites":["Aqua"],"region":"australia","daily":[{"date":"2026-10-10","frp_mw":3225.8301,"active_cells":5}]}

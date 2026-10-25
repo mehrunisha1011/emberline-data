@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2026-0105","lat":-19.4598,"lon":134.6239,"start":"2026-06-03","peak":"2026-06-03","end":"2026-06-03","duration_days":1,"total_frp_mw":8130.0698,"n_cell_days":22,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"australia","daily":[{"date":"2026-06-03","frp_mw":8130.0698,"active_cells":22}]}

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"au-2022-0098","lat":-21.6296,"lon":131.7335,"start":"2022-05-17","peak":"2022-05-17","end":"2022-05-17","duration_days":1,"total_frp_mw":12634.9502,"n_cell_days":60,"n_satellites":3,"satellites":["Aqua","SNPP","NOAA20"],"region":"australia","daily":[{"date":"2022-05-17","frp_mw":12634.9502,"active_cells":60}]}
