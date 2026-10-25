@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"am-2003-0220","lat":-11.3934,"lon":-49.8802,"start":"2003-09-12","peak":"2003-09-12","end":"2003-09-12","duration_days":1,"total_frp_mw":6254.2002,"n_cell_days":4,"n_satellites":1,"satellites":["Aqua"],"region":"amazon","daily":[{"date":"2003-09-12","frp_mw":6254.2002,"active_cells":4}]}

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"am-2021-0184","lat":-13.187,"lon":-52.3108,"start":"2021-08-22","peak":"2021-08-22","end":"2021-08-22","duration_days":1,"total_frp_mw":4940.48,"n_cell_days":14,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"amazon","daily":[{"date":"2021-08-22","frp_mw":4940.48,"active_cells":14}]}

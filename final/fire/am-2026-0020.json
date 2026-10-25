@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"am-2026-0020","lat":-12.2188,"lon":-57.2779,"start":"2026-06-04","peak":"2026-06-04","end":"2026-06-04","duration_days":1,"total_frp_mw":2627.7,"n_cell_days":9,"n_satellites":3,"satellites":["Terra","Aqua","SNPP"],"region":"amazon","daily":[{"date":"2026-06-04","frp_mw":2627.7,"active_cells":9}]}

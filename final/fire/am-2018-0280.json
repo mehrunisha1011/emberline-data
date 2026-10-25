@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"am-2018-0280","lat":-3.7457,"lon":-46.9347,"start":"2018-10-27","peak":"2018-10-27","end":"2018-10-27","duration_days":1,"total_frp_mw":2688.3101,"n_cell_days":12,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"amazon","daily":[{"date":"2018-10-27","frp_mw":2688.3101,"active_cells":12}]}

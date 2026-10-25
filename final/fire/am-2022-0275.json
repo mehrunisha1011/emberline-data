@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"am-2022-0275","lat":-12.3208,"lon":-50.842,"start":"2022-10-03","peak":"2022-10-03","end":"2022-10-03","duration_days":1,"total_frp_mw":5912.7002,"n_cell_days":32,"n_satellites":2,"satellites":["Terra","SNPP"],"region":"amazon","daily":[{"date":"2022-10-03","frp_mw":5912.7002,"active_cells":32}]}

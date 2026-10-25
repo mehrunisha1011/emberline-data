@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"am-2001-0001","lat":2.4249,"lon":-60.9159,"start":"2001-03-11","peak":"2001-03-11","end":"2001-03-11","duration_days":1,"total_frp_mw":1100.9,"n_cell_days":4,"n_satellites":1,"satellites":["Terra"],"region":"amazon","daily":[{"date":"2001-03-11","frp_mw":1100.9,"active_cells":4}]}

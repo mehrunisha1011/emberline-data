@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"am-2013-0113","lat":-8.2489,"lon":-44.87,"start":"2013-09-06","peak":"2013-09-06","end":"2013-09-06","duration_days":1,"total_frp_mw":3405.2,"n_cell_days":7,"n_satellites":2,"satellites":["Aqua","SNPP"],"region":"amazon","daily":[{"date":"2013-09-06","frp_mw":3405.2,"active_cells":7}]}

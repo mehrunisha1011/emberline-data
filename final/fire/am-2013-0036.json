@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"am-2013-0036","lat":-8.8726,"lon":-46.5425,"start":"2013-08-10","peak":"2013-08-10","end":"2013-08-10","duration_days":1,"total_frp_mw":1965.2,"n_cell_days":4,"n_satellites":1,"satellites":["Terra"],"region":"amazon","daily":[{"date":"2013-08-10","frp_mw":1965.2,"active_cells":4}]}
