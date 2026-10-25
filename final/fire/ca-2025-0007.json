@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2025-0007","lat":34.525,"lon":-118.5802,"start":"2025-01-22","peak":"2025-01-22","end":"2025-01-22","duration_days":1,"total_frp_mw":28063.9297,"n_cell_days":53,"n_satellites":3,"satellites":["Aqua","SNPP","NOAA20"],"region":"california_west_us","daily":[{"date":"2025-01-22","frp_mw":28063.9297,"active_cells":53}]}

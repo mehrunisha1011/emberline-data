@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2014-0038","lat":33.0785,"lon":-116.5695,"start":"2014-07-03","peak":"2014-07-03","end":"2014-07-03","duration_days":1,"total_frp_mw":607.73,"n_cell_days":6,"n_satellites":2,"satellites":["Terra","SNPP"],"region":"california_west_us","daily":[{"date":"2014-07-03","frp_mw":607.73,"active_cells":6}]}

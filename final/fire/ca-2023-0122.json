@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2023-0122","lat":38.9898,"lon":-121.7542,"start":"2023-11-13","peak":"2023-11-13","end":"2023-11-13","duration_days":1,"total_frp_mw":222.3,"n_cell_days":3,"n_satellites":1,"satellites":["Aqua"],"region":"california_west_us","daily":[{"date":"2023-11-13","frp_mw":222.3,"active_cells":3}]}

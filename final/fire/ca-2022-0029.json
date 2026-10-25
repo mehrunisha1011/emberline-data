@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2022-0029","lat":41.8827,"lon":-121.8526,"start":"2022-03-12","peak":"2022-03-12","end":"2022-03-12","duration_days":1,"total_frp_mw":427.08,"n_cell_days":3,"n_satellites":3,"satellites":["Aqua","SNPP","NOAA20"],"region":"california_west_us","daily":[{"date":"2022-03-12","frp_mw":427.08,"active_cells":3}]}

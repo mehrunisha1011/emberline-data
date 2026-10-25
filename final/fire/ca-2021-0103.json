@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2021-0103","lat":40.1733,"lon":-120.6087,"start":"2021-08-21","peak":"2021-08-21","end":"2021-08-21","duration_days":1,"total_frp_mw":694.36,"n_cell_days":4,"n_satellites":4,"satellites":["Terra","Aqua","SNPP","NOAA20"],"region":"california_west_us","daily":[{"date":"2021-08-21","frp_mw":694.36,"active_cells":4}]}

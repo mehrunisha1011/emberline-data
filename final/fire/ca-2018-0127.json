@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2018-0127","lat":35.3777,"lon":-120.0507,"start":"2018-11-18","peak":"2018-11-18","end":"2018-11-18","duration_days":1,"total_frp_mw":1348.95,"n_cell_days":13,"n_satellites":1,"satellites":["NOAA20"],"region":"california_west_us","daily":[{"date":"2018-11-18","frp_mw":1348.95,"active_cells":13}]}

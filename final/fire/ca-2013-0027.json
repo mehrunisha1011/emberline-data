@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2013-0027","lat":38.0609,"lon":-120.9167,"start":"2013-05-30","peak":"2013-05-30","end":"2013-05-30","duration_days":1,"total_frp_mw":241.3,"n_cell_days":3,"n_satellites":1,"satellites":["Terra"],"region":"california_west_us","daily":[{"date":"2013-05-30","frp_mw":241.3,"active_cells":3}]}

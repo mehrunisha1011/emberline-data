@@ -1,0 +1,33 @@
+EMBERLINE METHODOLOGY (draft, fill the {{ }} blanks with real numbers)
+
+1. DATA
+NASA FIRMS archive, standard-processing active fire detections: MODIS Collection 6.1 (Terra from 2000-11, Aqua from 2002), VIIRS 375 m from S-NPP (2012-01) and NOAA-20 (2018-04). Regions: {{list}}. Last {{N}} months are near-real-time, not final.
+
+2. ONE STANDARD FORMAT
+Every detection becomes: region, satellite family and platform, latitude, longitude, date, time, fire radiative power (FRP, in megawatts), confidence tier, day/night, pixel size, fire type. Only vegetation-fire detections (type 0) are kept. MODIS confidence (0-100) is converted to three tiers: low (below 30), nominal (30-79), high (80+). VIIRS already reports low/nominal/high.
+
+3. WHY THERE IS A FAKE JUMP
+VIIRS pixels are 375 m, MODIS pixels are 1 km. VIIRS therefore detects smaller fires. When VIIRS starts in 2012, a count of detections jumps even if nothing changed on the ground. Smaller steps happen when Aqua (2002), NOAA-20 (2018) and NOAA-21 (2023) start, because more satellite passes mean more chances to see a fire.
+
+4. HOW MUCH DOES MODIS MISS?
+Aqua (MODIS) and S-NPP (VIIRS) cross the same place at nearly the same time of day. For each daytime S-NPP detection we look for an Aqua detection within {{X}} km and {{Y}} minutes. We only count S-NPP detections that Aqua could physically see (inside Aqua's swath). The share that Aqua also saw, by fire-power bin, is the detection curve. Detection threshold: the smallest FRP above which Aqua catches at least {{90}}% of fires = {{T}} MW.
+
+5. THE FIX
+Fixed trend keeps all MODIS detections and only the VIIRS detections at or above the threshold, so every year measures the same size of fire. 2000-2002 (Terra only) is scaled by {{S}}, the Terra-plus-Aqua to Terra-only ratio measured in 2003-2005.
+
+6. FIRE EVENTS
+Detections are collapsed to ~1 km cell-days, then linked into one event when they are within {{3}} km and {{2}} days of each other. Each event has start, peak (day of highest total FRP), end, total FRP and the satellites that saw it. Events below {{50}} MW total FRP or {{3}} cell-days are dropped so tiny agricultural burns do not flood the map.
+
+7. VALIDATION
+Events are compared to NASA MODIS burned area (MCD64A1). Match rate per region: {{table}}. Headline: the 2012 step is {{38}}% in the raw series and {{3}}% in the fixed series; MODIS alone moves {{x}}% over the same years.
+
+8. LIMITATIONS
+- FRP is fire intensity, not area burned.
+- Clouds and heavy smoke hide fires from both satellites.
+- Terra and Aqua overpass times have drifted in recent years, which changes what they see.
+- The threshold is estimated from daytime data and applied to day and night.
+- Burned area is a cross-check, not ground truth.
+- The newest months mix near-real-time and standard processing.
+
+DATA ACKNOWLEDGEMENT
+We acknowledge the use of data and/or imagery from NASA's Fire Information for Resource Management System (FIRMS) (https://earthdata.nasa.gov/firms), part of NASA's Earth Science Data and Information System (ESDIS).

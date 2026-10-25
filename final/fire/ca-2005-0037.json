@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2005-0037","lat":36.2303,"lon":-120.2715,"start":"2005-08-30","peak":"2005-08-30","end":"2005-08-30","duration_days":1,"total_frp_mw":565.9,"n_cell_days":3,"n_satellites":1,"satellites":["Terra"],"region":"california_west_us","daily":[{"date":"2005-08-30","frp_mw":565.9,"active_cells":3}]}

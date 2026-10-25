@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2020-0059","lat":38.0331,"lon":-122.2425,"start":"2020-07-06","peak":"2020-07-06","end":"2020-07-06","duration_days":1,"total_frp_mw":341.23,"n_cell_days":4,"n_satellites":1,"satellites":["SNPP"],"region":"california_west_us","daily":[{"date":"2020-07-06","frp_mw":341.23,"active_cells":4}]}

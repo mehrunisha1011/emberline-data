@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2002-0024","lat":39.0246,"lon":-122.0355,"start":"2002-07-26","peak":"2002-07-26","end":"2002-07-26","duration_days":1,"total_frp_mw":591.7,"n_cell_days":4,"n_satellites":1,"satellites":["Aqua"],"region":"california_west_us","daily":[{"date":"2002-07-26","frp_mw":591.7,"active_cells":4}]}

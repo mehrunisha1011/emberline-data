@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2019-0055","lat":37.0322,"lon":-118.3438,"start":"2019-09-05","peak":"2019-09-05","end":"2019-09-05","duration_days":1,"total_frp_mw":314.1,"n_cell_days":3,"n_satellites":1,"satellites":["Terra"],"region":"california_west_us","daily":[{"date":"2019-09-05","frp_mw":314.1,"active_cells":3}]}

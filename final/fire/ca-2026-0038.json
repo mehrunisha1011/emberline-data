@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2026-0038","lat":36.5912,"lon":-120.2814,"start":"2026-06-28","peak":"2026-06-28","end":"2026-06-28","duration_days":1,"total_frp_mw":180.98,"n_cell_days":3,"n_satellites":2,"satellites":["SNPP","NOAA20"],"region":"california_west_us","daily":[{"date":"2026-06-28","frp_mw":180.98,"active_cells":3}]}

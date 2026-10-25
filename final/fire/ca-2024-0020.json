@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2024-0020","lat":35.2843,"lon":-119.9271,"start":"2024-06-12","peak":"2024-06-12","end":"2024-06-12","duration_days":1,"total_frp_mw":1044.02,"n_cell_days":11,"n_satellites":3,"satellites":["Aqua","SNPP","NOAA20"],"region":"california_west_us","daily":[{"date":"2024-06-12","frp_mw":1044.02,"active_cells":11}]}

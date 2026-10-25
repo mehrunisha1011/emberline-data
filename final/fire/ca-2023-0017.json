@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2023-0017","lat":37.142,"lon":-119.2399,"start":"2023-05-23","peak":"2023-05-23","end":"2023-05-23","duration_days":1,"total_frp_mw":449.44,"n_cell_days":4,"n_satellites":3,"satellites":["Terra","SNPP","NOAA20"],"region":"california_west_us","daily":[{"date":"2023-05-23","frp_mw":449.44,"active_cells":4}]}

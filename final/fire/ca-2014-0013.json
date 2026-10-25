@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2014-0013","lat":32.9602,"lon":-116.5861,"start":"2014-02-25","peak":"2014-02-25","end":"2014-02-25","duration_days":1,"total_frp_mw":1229.0399,"n_cell_days":4,"n_satellites":2,"satellites":["Aqua","SNPP"],"region":"california_west_us","daily":[{"date":"2014-02-25","frp_mw":1229.0399,"active_cells":4}]}

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2019-0079","lat":41.4163,"lon":-121.7221,"start":"2019-10-16","peak":"2019-10-16","end":"2019-10-16","duration_days":1,"total_frp_mw":815.29,"n_cell_days":5,"n_satellites":3,"satellites":["Aqua","SNPP","NOAA20"],"region":"california_west_us","daily":[{"date":"2019-10-16","frp_mw":815.29,"active_cells":5}]}

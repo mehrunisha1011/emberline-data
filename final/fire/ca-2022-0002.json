@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2022-0002","lat":37.9315,"lon":-119.9492,"start":"2022-01-11","peak":"2022-01-11","end":"2022-01-11","duration_days":1,"total_frp_mw":186.97,"n_cell_days":3,"n_satellites":1,"satellites":["SNPP"],"region":"california_west_us","daily":[{"date":"2022-01-11","frp_mw":186.97,"active_cells":3}]}

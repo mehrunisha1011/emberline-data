@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"ca-2018-0012","lat":37.3426,"lon":-119.373,"start":"2018-02-24","peak":"2018-02-24","end":"2018-02-24","duration_days":1,"total_frp_mw":398.1,"n_cell_days":3,"n_satellites":2,"satellites":["Terra","Aqua"],"region":"california_west_us","daily":[{"date":"2018-02-24","frp_mw":398.1,"active_cells":3}]}
