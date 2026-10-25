@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2025-0001","lat":14.2424,"lon":77.4679,"start":"2025-01-27","peak":"2025-01-27","end":"2025-01-27","duration_days":1,"total_frp_mw":1376.8,"n_cell_days":5,"n_satellites":1,"satellites":["Terra"],"region":"india","daily":[{"date":"2025-01-27","frp_mw":1376.8,"active_cells":5}]}

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2021-0080","lat":23.5378,"lon":92.9946,"start":"2021-03-09","peak":"2021-03-09","end":"2021-03-09","duration_days":1,"total_frp_mw":2232.6101,"n_cell_days":12,"n_satellites":2,"satellites":["Terra","SNPP"],"region":"india","daily":[{"date":"2021-03-09","frp_mw":2232.6101,"active_cells":12}]}

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2025-0055","lat":23.6721,"lon":92.5518,"start":"2025-03-07","peak":"2025-03-07","end":"2025-03-07","duration_days":1,"total_frp_mw":1544.49,"n_cell_days":5,"n_satellites":1,"satellites":["NOAA20"],"region":"india","daily":[{"date":"2025-03-07","frp_mw":1544.49,"active_cells":5}]}

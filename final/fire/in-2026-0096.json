@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2026-0096","lat":22.9779,"lon":92.9757,"start":"2026-03-07","peak":"2026-03-07","end":"2026-03-07","duration_days":1,"total_frp_mw":492.12,"n_cell_days":3,"n_satellites":3,"satellites":["Aqua","SNPP","NOAA20"],"region":"india","daily":[{"date":"2026-03-07","frp_mw":492.12,"active_cells":3}]}

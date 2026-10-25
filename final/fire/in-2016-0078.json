@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2016-0078","lat":23.6895,"lon":92.9264,"start":"2016-03-14","peak":"2016-03-14","end":"2016-03-14","duration_days":1,"total_frp_mw":737.65,"n_cell_days":5,"n_satellites":1,"satellites":["SNPP"],"region":"india","daily":[{"date":"2016-03-14","frp_mw":737.65,"active_cells":5}]}

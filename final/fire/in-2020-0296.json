@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2020-0296","lat":34.0272,"lon":74.1685,"start":"2020-11-13","peak":"2020-11-13","end":"2020-11-13","duration_days":1,"total_frp_mw":919.9,"n_cell_days":4,"n_satellites":1,"satellites":["Terra"],"region":"india","daily":[{"date":"2020-11-13","frp_mw":919.9,"active_cells":4}]}

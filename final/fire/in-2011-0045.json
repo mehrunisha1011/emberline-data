@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2011-0045","lat":26.2141,"lon":94.4928,"start":"2011-03-04","peak":"2011-03-04","end":"2011-03-04","duration_days":1,"total_frp_mw":1035.4,"n_cell_days":7,"n_satellites":1,"satellites":["Terra"],"region":"india","daily":[{"date":"2011-03-04","frp_mw":1035.4,"active_cells":7}]}

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2021-0277","lat":24.9516,"lon":94.6396,"start":"2021-04-13","peak":"2021-04-13","end":"2021-04-13","duration_days":1,"total_frp_mw":3024.6001,"n_cell_days":7,"n_satellites":3,"satellites":["Terra","Aqua","NOAA20"],"region":"india","daily":[{"date":"2021-04-13","frp_mw":3024.6001,"active_cells":7}]}

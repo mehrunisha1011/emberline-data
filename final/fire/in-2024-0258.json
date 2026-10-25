@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2024-0258","lat":27.981,"lon":94.5458,"start":"2024-04-14","peak":"2024-04-14","end":"2024-04-14","duration_days":1,"total_frp_mw":1180.54,"n_cell_days":4,"n_satellites":1,"satellites":["SNPP"],"region":"india","daily":[{"date":"2024-04-14","frp_mw":1180.54,"active_cells":4}]}

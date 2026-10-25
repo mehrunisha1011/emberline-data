@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2015-0196","lat":23.3423,"lon":93.3049,"start":"2015-03-17","peak":"2015-03-17","end":"2015-03-17","duration_days":1,"total_frp_mw":4456.1299,"n_cell_days":8,"n_satellites":2,"satellites":["Aqua","SNPP"],"region":"india","daily":[{"date":"2015-03-17","frp_mw":4456.1299,"active_cells":8}]}

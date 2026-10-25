@@ -1,7 +1,7 @@
 EMBERLINE METHODOLOGY
 
 1. DATA
-NASA FIRMS archive, standard-processing active fire detections: MODIS Collection 6.1 (Terra from 2000-11, Aqua from 2002-07), VIIRS 375 m from S-NPP (2012-01) and NOAA-20 (2018-04). The newest few months come from near-real-time processing, not final. Regions finished so far: California, Amazon, Australia, Canada boreal.
+NASA FIRMS archive, standard-processing active fire detections: MODIS Collection 6.1 (Terra from 2000-11, Aqua from 2002-07), VIIRS 375 m from S-NPP (2012-01) and NOAA-20 (2018-04). The newest few months come from near-real-time processing, not final. Regions finished so far: California, Amazon, Australia, India, Canada boreal.
 
 2. ONE STANDARD FORMAT
 Every detection becomes: region, satellite family and platform, latitude, longitude, date, time, fire radiative power (FRP, megawatts), confidence tier, day/night, pixel size, fire type. Only vegetation-fire detections (type 0) are kept, and low-confidence detections are dropped. MODIS confidence (0-100) is converted to three tiers: low (below 30), nominal (30-79), high (80+). VIIRS already reports low/nominal/high. Detections are clipped to each region's bounding box.
@@ -12,7 +12,7 @@ VIIRS pixels are 375 m, MODIS pixels are 1 km, so VIIRS detects smaller fires. W
 4. HOW MUCH DOES MODIS MISS?
 Aqua (MODIS) and S-NPP (VIIRS) cross the same place at nearly the same time of day. For each daytime S-NPP detection (near-nadir pixels only, so Aqua could physically see it) we look for an Aqua detection on the same day, within 60 minutes, whose pixel footprint contains it. The share that Aqua also saw, by fire-power bin, is the detection curve. We match only 2013-2022, because Aqua's overpass time drifts later after 2022.
 Even for the largest fires Aqua does not catch everything (clouds, smoke, viewing geometry), so the threshold is relative: the smallest FRP above which MODIS catches at least 90% of what it catches for big fires (the plateau).
-Per region (threshold, plateau): California 50 MW (plateau 0.78); Amazon 50 MW (plateau 0.54); Australia 30 MW (plateau 0.68); Canada boreal 30 MW (plateau 0.66).
+Per region (threshold, plateau): California 50 MW (plateau 0.78); Amazon 50 MW (plateau 0.54); Australia 30 MW (plateau 0.68); India 50 MW (plateau 0.69); Canada boreal 30 MW (plateau 0.66).
 
 5. THE FIX
 The fixed series keeps only detections at or above the region's threshold, for MODIS and VIIRS alike, so every year measures the same size of fire. Each ~1 km cell is counted once per day however many satellites saw it. 2000-2002 (Terra only) is scaled by the Terra-plus-Aqua to Terra-only ratio measured in 2003-2005.
@@ -25,6 +25,7 @@ We compare the 2012 step to a control: the same step measured on MODIS alone, wh
 - California: raw +303% (MODIS-only control +72%, excess +134%); fixed +149% (control +108%, excess +20%)
 - Amazon: raw +172% (MODIS-only control -12%, excess +209%); fixed +8% (control -19%, excess +32%)
 - Australia: raw +208% (MODIS-only control +13%, excess +171%); fixed +45% (control +15%, excess +27%)
+- India: raw +410% (MODIS-only control +1%, excess +407%); fixed +27% (control -7%, excess +37%)
 - Canada boreal: raw +416% (MODIS-only control +51%, excess +242%); fixed +141% (control +50%, excess +60%)
 Burned-area validation (MCD64A1) has not been done yet.
 

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"in-2007-0007","lat":24.0048,"lon":92.7562,"start":"2007-02-28","peak":"2007-02-28","end":"2007-02-28","duration_days":1,"total_frp_mw":1396.9,"n_cell_days":8,"n_satellites":1,"satellites":["Aqua"],"region":"india","daily":[{"date":"2007-02-28","frp_mw":1396.9,"active_cells":8}]}
