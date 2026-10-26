@@ -1,1 +1,0 @@
-{"contract_version":"0.1","sample":false,"fire_id":"ca-2020-0251","lat":36.1901,"lon":-119.1378,"start":"2020-12-28","peak":"2020-12-28","end":"2020-12-28","duration_days":1,"total_frp_mw":211.4,"n_cell_days":3,"n_satellites":2,"satellites":["Terra","Aqua"],"region":"california_west_us","daily":[{"date":"2020-12-28","frp_mw":211.4,"active_cells":3}]}

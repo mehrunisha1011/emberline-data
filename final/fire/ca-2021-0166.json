@@ -1,1 +1,0 @@
-{"contract_version":"0.1","sample":false,"fire_id":"ca-2021-0166","lat":32.8985,"lon":-115.5856,"start":"2021-12-05","peak":"2021-12-05","end":"2021-12-05","duration_days":1,"total_frp_mw":624.95,"n_cell_days":5,"n_satellites":2,"satellites":["Aqua","SNPP"],"region":"california_west_us","daily":[{"date":"2021-12-05","frp_mw":624.95,"active_cells":5}]}

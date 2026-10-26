@@ -1,1 +1,0 @@
-{"contract_version":"0.1","sample":false,"fire_id":"ca-2017-0194","lat":35.6624,"lon":-119.1025,"start":"2017-12-22","peak":"2017-12-22","end":"2017-12-22","duration_days":1,"total_frp_mw":173.44,"n_cell_days":3,"n_satellites":1,"satellites":["SNPP"],"region":"california_west_us","daily":[{"date":"2017-12-22","frp_mw":173.44,"active_cells":3}]}
