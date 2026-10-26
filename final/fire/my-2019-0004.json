@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"my-2019-0004","lat":4.1187,"lon":102.0968,"start":"2019-03-16","peak":"2019-03-16","end":"2019-03-16","duration_days":1,"total_frp_mw":409.79,"n_cell_days":3,"n_satellites":2,"satellites":["Aqua","NOAA20"],"region":"malaysia","daily":[{"date":"2019-03-16","frp_mw":409.79,"active_cells":3}]}

@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"my-2008-0011","lat":2.7974,"lon":112.3121,"start":"2008-05-21","peak":"2008-05-21","end":"2008-05-21","duration_days":1,"total_frp_mw":2245.8999,"n_cell_days":4,"n_satellites":1,"satellites":["Terra"],"region":"malaysia","daily":[{"date":"2008-05-21","frp_mw":2245.8999,"active_cells":4}]}

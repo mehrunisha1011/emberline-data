@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"my-2015-0015","lat":1.4585,"lon":110.6502,"start":"2015-07-06","peak":"2015-07-06","end":"2015-07-06","duration_days":1,"total_frp_mw":822.4,"n_cell_days":3,"n_satellites":2,"satellites":["Terra","Aqua"],"region":"malaysia","daily":[{"date":"2015-07-06","frp_mw":822.4,"active_cells":3}]}

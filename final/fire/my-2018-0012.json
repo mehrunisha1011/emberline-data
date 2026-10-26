@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"my-2018-0012","lat":2.9355,"lon":102.6168,"start":"2018-08-24","peak":"2018-08-24","end":"2018-08-24","duration_days":1,"total_frp_mw":487.01,"n_cell_days":3,"n_satellites":2,"satellites":["SNPP","NOAA20"],"region":"malaysia","daily":[{"date":"2018-08-24","frp_mw":487.01,"active_cells":3}]}

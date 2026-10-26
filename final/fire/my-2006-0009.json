@@ -1,0 +1,1 @@
+{"contract_version":"0.1","sample":false,"fire_id":"my-2006-0009","lat":2.4685,"lon":113.4235,"start":"2006-08-13","peak":"2006-08-13","end":"2006-08-13","duration_days":1,"total_frp_mw":986.5,"n_cell_days":4,"n_satellites":1,"satellites":["Aqua"],"region":"malaysia","daily":[{"date":"2006-08-13","frp_mw":986.5,"active_cells":4}]}
